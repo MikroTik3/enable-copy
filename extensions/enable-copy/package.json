@@ -1,7 +1,7 @@
 {
   "name": "enable-copy",
   "version": "1.0.0",
-  "description": "Build react extension with react",
+  "description": "Free open-source extension that removes copy, select, and right-click restrictions on any website.",
   "main": "index.js",
   "author": "MikroTik_3",
   "license": "MIT",
