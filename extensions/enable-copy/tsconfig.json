@@ -1,0 +1,14 @@
+{
+      "compilerOptions": {
+            "jsx": "react",
+            "module": "ES6",
+            "target": "ES6",
+            "lib": ["ES2016", "DOM"],
+            "types": ["chrome"],
+            "moduleResolution": "Node",
+            "ignoreDeprecations": "6.0",
+            "esModuleInterop": true
+      },
+      "include": ["src/**/*.ts", "src/**/*.tsx"],
+      "exclude": ["node_modules"]
+}
